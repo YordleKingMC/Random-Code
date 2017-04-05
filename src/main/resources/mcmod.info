@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hsm",
+  "name": "Spectrum",
+  "description": "Color is magical, if used by the right types of people.",
+  "version": "1.0.0",
+  "mcversion": "1.11.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["YordleKing"],
+  "credits": "",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
